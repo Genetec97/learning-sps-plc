@@ -1,2 +1,22 @@
-# learning-sps-plc
-Lern- und Praxisrepository zu SPS / PLC Grundlagen und Übungen
+# Projektname
+
+## Kontext
+Warum dieses Projekt existiert.
+
+## Ziel
+Was gelöst werden sollte.
+
+## Technologien
+- C
+- STM32
+- Ladder Logic
+- etc.
+
+## Ergebnis
+Was funktioniert, was nicht.
+
+## Lessons Learned
+Technische & persönliche Erkenntnisse.
+
+## Status
+🟢 aktiv | 🟡 pausiert | 🔴 abgeschlossen
